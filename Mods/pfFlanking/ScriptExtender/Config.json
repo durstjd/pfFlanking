@@ -1,0 +1,8 @@
+{
+    "RequiredVersion": 19,
+    "ModTable": "pfflanking",
+	"FeatureFlags": [
+        "Osiris",
+        "Lua"
+    ]
+}
