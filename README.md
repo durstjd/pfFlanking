@@ -6,6 +6,18 @@ BG3SE: https://github.com/Norbyte/bg3se/tree/main
 
 pfFlanking: https://www.nexusmods.com/baldursgate3/mods/12247/
 
+
+*****
+Update! 
+
+Lunisole has released their update to the Backstabbing Framework -- the Backstabbing-Flanking Framework! There is another download available that utilizes the BFF framework. This mod must be above the framework in the load order. The original version is still available, but I encourage you to check out the updated mod and choose whichever you prefer. It does not require the original mod. This makes the calculation for flanking positioning perfectly accurate to the description of flanking in Pathfinder RAW. Both are available on Nexus Mods.
+
+Backstabbing-Flanking Framework: https://www.nexusmods.com/baldursgate3/mods/11741
+
+Thanks Lunisole!
+*****
+
+
 # About
 Developed for Patch 6, as that is what I am currently playing in a Co-op playthrough.
 
