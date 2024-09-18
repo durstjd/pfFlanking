@@ -1,7 +1,0 @@
-new entry "PASSIVE_FLANKING_BONUS"
-type "PassiveData"
-data "DisplayName" "hced552dfcba44fe1844d9d3d74927d36bf5g;1"
-data "Description" "h24493a3058a34a3aa9cca8270d5357337394;1"
-data "Icon" "PassiveFeature_GuidedStrike"
-data "Properties" "Highlighted"
-data "Boosts" "IF(HasStatus('IS_FLANKED',context.Target)):RollBonus(Attack,2)"
