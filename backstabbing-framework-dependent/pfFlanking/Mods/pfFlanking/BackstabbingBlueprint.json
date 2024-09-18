@@ -1,0 +1,26 @@
+{
+  "Enabling" : 
+	{
+		"Spells" : [],
+		"Passives" : []
+	},
+  "Custom" : 
+	{
+		"Spells" : [],
+		"Passives" : []
+	},
+  "Modifiers" : 
+	{
+		"Spells" : [],
+		"Passives" : []
+	},
+  "Flanking" :
+	{
+		"Spells" : [
+			"Target_MainHandAttack"
+		],
+		"Passives" : [
+			"PASSIVE_FLANKING_BONUS"
+		]
+	}
+}
